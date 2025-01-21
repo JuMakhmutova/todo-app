@@ -4,14 +4,29 @@ A simple To-Do List application built with React, TypeScript, and Vite. This app
 
 ## Features
 
-- Add a new to-do item: Easily add tasks to the list.
-- Delete an existing to-do item: Remove tasks that are no longer needed.
-- Edit an existing to-do item: Modify any task with new information.
+- Add new tasks to the list.
+- Remove an existing tasks
+- Modify any task with new information
 
 ## Technologies
 
 - React
 - TypeScript
 - Vite
-- Jest
+- Vitest
 - React Testing Library
+
+## Installation
+
+To get started with the project
+
+1. Install the dependencies:
+   `npm install`
+2. Start the development server:
+   `npm run dev`
+3. Run tests:
+   `npm run test`
+
+The application will be available at http://localhost:5174/
+
+!! Node version 20.9.0
